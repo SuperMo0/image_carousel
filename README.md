@@ -2,4 +2,4 @@
 
 
 
-** Simple Image slider **
+**Simple Image slider**
